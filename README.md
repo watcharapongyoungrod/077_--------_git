@@ -15,3 +15,8 @@
 - reader
 - football
 - cooking
+
+# Education
+- College : Hatyai Technical College
+- Program : Information Technology
+- Yeat : Vocational Certificate (Voc. Cert.3)
