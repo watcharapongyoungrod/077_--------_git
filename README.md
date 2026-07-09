@@ -20,3 +20,8 @@
 - College : Hatyai Technical College
 - Program : Information Technology
 - Yeat : Vocational Certificate (Voc. Cert.3)
+
+# Career Goals 
+- Become a Software Developer
+- Learn DevOps
+- Learn Docker
