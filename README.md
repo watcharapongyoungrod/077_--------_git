@@ -25,3 +25,8 @@
 - Become a Software Developer
 - Learn DevOps
 - Learn Docker
+
+# My Hobby
+-Reading
+-Coding
+-Music
