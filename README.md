@@ -29,4 +29,9 @@
 # My Hobby
 -Reading
 -Coding
--Anime
+-Movie
+
+# experience
+- 3 Year of coding
+- 3 Year of 3D Model
+- 3 Year of Love
