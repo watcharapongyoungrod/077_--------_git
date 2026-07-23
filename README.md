@@ -31,3 +31,7 @@
 -Coding
 -Movie
 
+# about
+-Name : Watcharapong Youngrod
+-Nick Name : T
+-Birth Date : 6 Nov. 2008
