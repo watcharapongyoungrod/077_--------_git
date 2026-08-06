@@ -35,3 +35,8 @@
 - 3 Year of coding
 - 3 Year of 3D Model
 - 3 Year of Love
+
+# Favorite Food
+- Crispy pork
+- Fried chicken
+- Tom Yum Goong
