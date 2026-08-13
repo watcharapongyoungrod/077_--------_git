@@ -40,3 +40,7 @@
 - waterfall
 - Sea
 - Mountain
+# Favorite Food
+- Crispy pork
+- Fried chicken
+- Tom Yum Goong
